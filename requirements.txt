@@ -11,3 +11,4 @@ PyRect==0.2.0
 PyScreeze==0.1.30
 pytweening==1.2.0
 pywin32==306
+opencv-python-headless
